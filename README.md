@@ -1,6 +1,10 @@
 # Retail_Dashboard
 
 ![op](https://github.com/shimaadaowd/Retail_Dashboard/assets/81235048/55656ee8-36a8-4df9-99a9-064882b77992)
+![In](https://github.com/shimaadaowd/Retail_Dashboard/assets/81235048/71f7ac64-eec4-4e48-85ab-b2121aee7cf7)
+![ov](https://github.com/shimaadaowd/Retail_Dashboard/assets/81235048/0c59bc7f-e69a-4b6a-a84a-1ecc46a8346e)
+
+
 
 # Objective:
 The main objective of this project is to analyze the adventureworks data in Microsoft Power BI after installing it from the following link:<br>
