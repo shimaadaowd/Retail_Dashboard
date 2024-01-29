@@ -9,7 +9,7 @@ https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?vi
 
 The data was properly cleaned and loaded as the following Views:
 
-       a.	-	vw_DimProducts
+       a.	vw_DimProducts
        
        b.	vw_DimSalesPersons
        
