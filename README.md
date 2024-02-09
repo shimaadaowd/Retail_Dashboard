@@ -30,7 +30,7 @@ The data was properly cleaned and loaded as the following Views:
 
          
 # Dashboard Creation:
-After doing the analysis, an interactive dashboard was created using Microsoft Power BI with Learning about Inventory and Operation reports design useing skills to build a report from three pages that shows the following:
+After doing the analysis, an interactive dashboard was created using Microsoft Power BI with Learning about Inventory and Operation reports design using skills to build a report from three pages that shows the following:
 
 •	Overall, Company Performance with general view on the areas, salespersons, order frequency and products.
 
